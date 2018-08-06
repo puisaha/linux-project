@@ -1,6 +1,8 @@
 
-
+###
 public Ip: 18.191.233.252
+
+
 SSH PORT: 2200
 
 ###For starting a new Ubuntu Linux server instance on Amazon Lightsail.
